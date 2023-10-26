@@ -1,0 +1,423 @@
+/*Navigation bar*/
+.container-fluid .navbar-brand 
+{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.8rem;
+    line-height: 19px;
+    color: #666666;
+}
+.navv
+{
+    background-color:  #F5F5F5;
+
+}
+.container-fluid .nav-link
+{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.8rem;
+    line-height: 19px;
+    color: #666666;
+}
+
+i{
+    color:rgba(23, 160, 218, 1);
+    margin-right: 6px;
+    
+}
+
+
+.header-livestock-img
+{
+    width: 15%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+}
+.container
+{
+    padding-left: 3%;
+    padding-right: 3%;
+    box-sizing:border-box;
+}
+
+
+
+
+
+h1{
+    font-family: 'Bevan';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 137.9%;
+color: #3E3E3E;
+text-align: center;
+}
+
+.image-line
+{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 23%;
+
+}
+
+
+/* HEADER */
+
+.header-livestock
+{
+    padding: 30px;
+}
+
+.livestock{
+    /* background-color: blue; */
+    padding: 30px;
+}
+
+.container-livestock
+{
+    max-width: 1200px;
+    /* background-color: #3E3E3E; */
+    margin: auto;
+}
+
+.container-livestock img
+{
+    width: 100%;
+}
+
+.container-livestock p
+{
+    width: 90%;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.9rem;
+    line-height: 172.9%;
+    color: #3E3E3E;
+    margin: 30px;
+
+}
+
+
+/*overview*/
+
+.overview-livestock
+{
+    Width:100%;
+    Height:200px;
+    background-color: #17A0DA;;
+    display: flex;
+    justify-content: center;
+
+
+}
+.para
+{
+    padding-top: 20px;
+}
+
+.colums-overview {
+
+    margin-bottom: 50px;
+    width: 200px;
+    padding: 5px;
+    color: #fff;
+    font-size: 0.7rem;
+    padding: 65px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.colums-overview img
+{
+    width: 50%;
+}
+
+/* why livestock*/
+
+h2
+{
+    font-family: 'Bevan';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 137.9%;
+text-align: center;
+
+color: #3E3E3E;
+padding: 40px;
+}
+
+.livestocks
+{
+    /* background-color: #2c2357; */
+    padding: 20px;
+}
+
+.container-ls
+{
+    max-width: 1200px;
+    /* background-color: chocolate; */
+    margin: auto;
+}
+
+.columns-lb p
+{
+    font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 0.9rem;
+line-height: 172.9%;
+}
+
+.columns-lb img
+{
+    width: 90%;
+}
+ 
+/* services */
+
+.services
+{
+    background-color: #F0F0F0;
+    
+}
+
+
+.container-service
+{
+    /* background-color: #385723; */
+    max-width: 1000px;
+    margin:auto;
+}
+
+.parag
+{
+    text-align: center;
+    font-size: 0.8rem;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.columns-service 
+{
+    width: 30%;
+    padding:0 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.columns-service p
+{
+    
+    line-height: 150%;
+    font-size: 0.8rem;
+    width:68%;
+}
+
+.columns-service img
+{
+    width: 27%;
+    margin: 15px;
+    padding: 20;
+    
+}
+
+.img1
+{
+    background-color: #385723;
+    margin: 0 5px 5px 0;
+    text-align: center;
+    padding: 15px;
+
+}
+
+.img2
+{
+    background-color: #FFC001;
+    
+    margin: 0 5px 5px 0;
+    text-align: center;
+    padding: 15px;
+
+}
+.img3
+{
+    background-color: #3E3E3E;
+ 
+    margin:0 5px 5px 0;
+    text-align: center;
+    padding: 15px;
+}
+
+/* team */
+
+.teams
+{
+    /* background-color: #385723; */
+    padding: 40px;
+}
+.container-team
+{
+    width: 1000px;
+    margin: auto;
+    /* background-color:black; */
+}
+
+.columns-team
+{
+    width: 20%;
+    padding:0 40px;
+}
+
+.columns-team h5
+{
+    
+font-family: 'Bevan';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 137.9%;
+padding: 10px;
+}
+.columns-team p
+{
+    
+font-family: 'Open Sans', sans-serif;    
+font-style: normal;
+font-weight: 500;
+font-size: 0.7rem;
+line-height: 137.9%;
+}
+
+.columns-team img
+{
+    width: 70%;
+   
+}
+
+/* Footer*/
+
+.footer2
+{
+    
+    padding: 50px;
+    background-color: #3E3E3E;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+
+
+}
+
+.containers
+{
+    max-width: 900px;
+    margin: auto;
+}
+
+ul
+{
+    list-style: none;
+}
+
+.rows
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.h4
+{
+    font-size: 15px;
+    color:#fff;
+    text-transform: capitalize;
+    /* margin-bottom: 5px; */
+    font-family: 'Bevan';
+}
+
+.footer2 ul li:not(:last-child)
+{
+    margin-bottom: 5px;
+    
+}
+
+.footer2 .social-links a
+{
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    background-color: rgba(255, 255, 255, 1);
+    margin: 0 5px 5px 0;
+    text-align: center;
+    line-height: 20px;
+    color: #3E3E3E;
+    border-radius: 2px;
+    transition: all 0.5s ease;
+}
+
+.footer2 .social-links a:hover
+{
+    color:#fff;
+    background-color: rgba(62, 62, 62, 1);
+}
+.items 
+{
+
+    margin-bottom: 50px;
+    width: 250px;
+    padding: 5px;
+    color: #fff;
+    font-size: 0.7rem;
+    padding: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.footer-logo
+{
+    width: 20%;
+}
+
+/* block-footer */
+
+.container-footer3
+{
+    background-color: #385723;
+    max-width: 800px;
+    margin-left: auto;
+    color: #fff;
+    padding: 20px;
+}
+
+.container-footer3 h5
+{
+    font-family: 'Bevan';
+}
+
+.container-footer3 p
+{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10px;
+}
+
+.btn
+{
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 20px;
+    width: 200px;
+    font-size: 13px;
+    margin: 20px;
+}

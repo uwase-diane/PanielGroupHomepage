@@ -1,0 +1,519 @@
+
+/*----------------------------------------------*/
+
+
+.container-fluid .nav-link
+{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 550;
+    font-size: 0.7rem;
+    line-height: 120.88%;
+    color: #3E3E3E;
+    margin: 19px;
+}
+a:hover
+{
+
+    color: #fff;
+    text-decoration: underline;
+}
+.navbar-nav
+{
+    background-color: #FFC001;
+    padding: 30px;
+}
+
+.navbar-brand img
+{
+    margin: 30px;
+}
+
+/* HEADER */
+
+.container .con-image
+{
+    /* width: 150%; */
+    float: right;
+    max-width: 150%;
+    height: auto;
+    background-color: #FFC001;
+}
+
+
+
+
+.container-item .image
+{
+    background-color: #FFC001;
+
+}
+
+.container-item .paragaph1
+{
+  
+    left: 6.25%;
+    right: 83.8%;
+    top: 4.54%;
+    bottom: 94.89%;
+
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 142.9%;
+    color: #3E3E3E;
+}
+
+.container-item .paragraph2
+{
+    font-family: 'Bevan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 137.9%;
+    color: #385723;
+    width: 140%;
+    
+}
+
+.container-item .paragraph3
+{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 172.9%;
+    width: 120%;
+    color: #3E3E3E;
+  
+}
+
+.container-item
+{
+    padding-top: 50px;
+}
+
+/* OVERVIEW */
+
+.container-Overview
+{
+    
+    background-color: #385723;
+    padding: 20px;
+    
+    
+}
+.container-Overview .col 
+{
+    width: 10%;
+    margin: 40px;
+}
+
+.para
+{
+    padding-top: 20px;
+    color: #fff;
+    font-size: 0.7rem;
+}
+
+/*  who we are */
+h1{
+    font-family: 'Bevan';
+    font-style: normal;
+    font-weight: 700;
+    line-height: 137.9%;
+    text-align: center;
+    color: #3E3E3E;
+    padding: 20px;
+
+}
+.what-h1
+{
+    font-family: 'Bevan';
+    font-style: normal;
+    font-weight: 700;
+    line-height: 137.9%;
+    padding: 40px;
+    color: #3E3E3E;
+    text-align: center;
+}
+.who-we-are
+{
+    padding-top: 70px;
+}
+
+.who-p
+{
+    /* width: 88%; */
+    font-size: 0.9rem;
+    margin: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: #3E3E3E;
+}
+
+.who-p2
+{
+    /* width: 140%; */
+    font-size: 0.9rem;
+    padding-top: 30px;
+    font-style: normal;
+    line-height: 165%;
+    font-weight: 400;
+    font-family: 'Poppins', sans-serif;
+    color: #3E3E3E;
+
+
+}
+
+/* WHAT WE DO */
+
+.container-what-we-do
+{
+    background-color:#F0F0F0;
+    text-align: center;
+    padding-top: 70px;
+}
+.container-what-we-do h1
+{
+    font-family: 'Bevan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 137.9%;
+    color: #3E3E3E;
+}
+
+.container-what-we-do p
+{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.8rem;
+    line-height: 165%;
+    color: #3E3E3E;
+    left: 21.09%;
+    right: 21.09%;
+    top: 52.98%;
+    bottom: 43.82%;
+    width: 60%;
+    margin: auto;
+    padding: 40px;
+
+    
+}
+
+ .b
+{
+    position: relative;
+    text-align: center;
+   
+}
+
+.b a{
+    color: #fff;
+    text-decoration: none;
+}
+
+.b a:hover{
+    color: #fff;
+
+}
+
+.b h1{
+    color: #fff;
+    font-size: 25px;
+}
+
+.centered-pmp {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  /* .b i{
+    font-size: 40px;
+  } */
+
+
+  .centered-Livestock{
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  
+.centered-Truk {
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .b img
+  {
+    width: 90%;
+  }
+
+
+
+
+/* FARMERS */
+
+.farmers img
+{
+    width: 50%;
+    margin: 40px;
+}
+
+.farmers h5
+{
+    font-family: 'Bevan';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 137.9%;
+    color: #3E3E3E;
+}
+
+.farmers p
+{
+    font-style: normal;
+    font-weight: 300;
+    font-size: 0.8rem;
+    line-height: 165%;
+    color: #3E3E3E;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* FOOTER 1*/
+
+.footer1
+{
+    background-color:#F0F0F0;
+    padding: 25px 0;
+}
+
+.contanierss
+{
+    max-width: 1170px;
+    /* background-color: red; */
+    margin: auto;
+}
+
+.footer-cols h4
+
+{
+    width: 60%;   
+    font-size: 30px;
+    color:#3E3E3E;
+    text-transform: capitalize;
+    /* margin-bottom: 30px; */
+    font-family: 'Bevan';
+}
+
+.rowss
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+.footer-cols p
+{
+    padding: 10px;
+    width: 55%;
+    color:#3E3E3E;
+    font-size: 0.7rem;
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    font-weight: 400;
+
+}
+
+.footer-cols 
+{
+   
+    padding: 0 50px;
+}
+.footer-email-form{
+    padding-top: 60px;
+}
+
+#footer-email
+{
+    width: 370px;
+    height: 40px;
+    outline: none;
+    border: none;
+    padding-left: 0.7rem;
+    font-size: 0.6rem;
+    margin-bottom: 1rem;
+}
+
+#footer-email::placeholder
+{
+    color: #3E3E3E;;
+}
+#footer-email-btn
+{
+    width: 120px;
+    height: 40px;
+    background-color: #3E3E3E;
+    color: #fff;
+    outline: none;
+    border: none;
+    font-size: 0.7rem;
+    margin:-5px;
+}
+
+/* block-footer */
+
+.container-block-footer
+{
+    background-color: #F0F0F0;
+}
+
+.container-footer3
+{
+    background-color: #385723;
+    max-width: 800px;
+    /* margin: auto; */
+    margin-left: auto;
+    max-height: 500px;
+    color: #fff;
+    padding: 30px;
+}
+
+.container-footer3 h4
+{
+    font-family: 'Bevan';
+}
+
+.container-footer3 p
+{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 10px;
+}
+
+.btn
+{
+    font-family: 'Open Sans', sans-serif;
+    border-radius: 20px;
+    width: 200px;
+    font-size: 13px;
+    margin: 20px;
+}
+
+/* Footer*/
+
+.footer2
+{
+    /* Width:100%;
+    Height:200px; */
+    /* padding: 5px; */
+    background-color: #3E3E3E;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+
+
+}
+
+.containers
+{
+    max-width: 900px;
+    margin: auto;
+}
+
+ul
+{
+    list-style: none;
+}
+
+.rows
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.h4
+{
+    font-size: 15px;
+    color:#fff;
+    text-transform: capitalize;
+    /* margin-bottom: 5px; */
+    font-family: 'Bevan';
+}
+
+.footer2 ul li:not(:last-child)
+{
+    margin-bottom: 5px;
+    
+}
+
+.footer2 .social-links a
+{
+    display: inline-block;
+    height: 20px;
+    width: 20px;
+    background-color: rgba(255, 255, 255, 1);
+    margin: 0 5px 5px 0;
+    text-align: center;
+    line-height: 20px;
+    color: #3E3E3E;
+    border-radius: 2px;
+    transition: all 0.5s ease;
+}
+
+.footer2 .social-links a:hover
+{
+    color:#fff;
+    background-color: rgba(62, 62, 62, 1);
+}
+.items 
+{
+
+    margin-bottom: 50px;
+    width: 250px;
+    padding: 5px;
+    color: #fff;
+    font-size: 0.7rem;
+    padding: 20px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.footer-logo
+{
+    width: 20%;
+}
+
+
+@media(max-width:767px)
+{
+    .footer-col{
+        width: 50%;
+        margin-bottom: 30px;
+    }
+}
+
+@media(max-width:574px)
+{
+    .footer-col{
+        width: 100%;
+        
+    }
+}
+
+
+
+

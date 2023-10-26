@@ -1,0 +1,83 @@
+/*  */
+
+/* LOGIN  & SIGNUP*/
+
+.modal-header h5
+{
+    font-size: 30px;
+    font-family: 'Bevan', cursive;
+    font-weight: 400;
+    color:rgba(62, 62, 62, 1);
+    text-align: center;
+}
+
+
+.text-center .btn
+{
+    background-color: #BF1D2E;
+    border-radius: 31.5px;
+    border: #BF1D2E;
+    font-size: 0.8rem;
+    width: 30%;
+}
+
+.text-center .btn:hover
+{
+    background-color: #BF1D2E;
+}
+
+form label
+{
+    font-size: 0.8rem;
+    font-family: 'Poppins', sans-serif;
+}
+
+form input::placeholder
+{
+    font-size: 0.8rem;
+    font-family: 'Poppins', sans-serif;
+    color:  #BFBFBF;
+}
+
+
+form .form-control
+{
+    background: #F3F3F3;
+    border-radius: 9.41836px;   
+    border:#F3F3F3;
+    width: 100%;
+
+}
+
+.text-center a
+{
+    color: #BF1D2E;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.text-end a
+{
+    text-decoration: none;
+    font-size: 0.8rem;
+    color: #000;
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-center a:hover
+{
+    text-decoration: none;
+    color: #BF1D2E;
+}
+
+.text-end a:hover
+{
+    text-decoration: none;
+    color: #BF1D2E;
+}
+.text-center p
+{
+    font-size: 0.8rem;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 5px;
+}

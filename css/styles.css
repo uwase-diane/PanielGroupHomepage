@@ -6,27 +6,31 @@
 {
     font-family: 'Poppins', sans-serif;
     font-style: normal;
-    font-weight: 550;
-    font-size: 0.7rem;
+    font-weight: 600;
+    font-size: 12px;
     line-height: 120.88%;
     color: #3E3E3E;
     margin: 19px;
 }
-a:hover
-{
 
-    color: #fff;
-    text-decoration: underline;
+a:hover {
+    color: #fff !important;
+    
 }
 .navbar-nav
 {
     background-color: #FFC001;
-    padding: 30px;
+    padding-top: 20px;
+    /* padding-left: 120px; */
+    padding-right: 95px;
+    padding-bottom: 20px;
+    
 }
 
 .navbar-brand img
 {
-    margin: 30px;
+    margin-left: 30px;
+   
 }
 
 /* HEADER */

@@ -1,12 +1,13 @@
 /*Navigation bar*/
-
-/* .container
+.container-fluid .navbar-brand 
 {
-    padding-left: 3%;
-    padding-right: 3%;
-    box-sizing:border-box;
-} */
-
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 0.8rem;
+    line-height: 19px;
+    color: #666666;
+}
 .navv
 {
     background-color:  #F5F5F5;
@@ -21,7 +22,6 @@
     line-height: 19px;
     color: #666666;
 }
-
 i{
     color:rgba(56, 87, 35, 1);
     margin-right: 6px;
